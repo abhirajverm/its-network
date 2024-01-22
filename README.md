@@ -38,7 +38,7 @@
 </p>
 
 <div align="center">
-  <img src="icons/image1_0.jpg" width="600" height="600"/>
+  <img src="icons/giphy.gif" width="300" height="300"/>
 </div>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"> 
