@@ -28,7 +28,7 @@
 - :telescope: I’m working as a Network & Security Engineer .
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhiraj-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/abhiraj-vermaa)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
