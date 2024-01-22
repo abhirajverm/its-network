@@ -37,7 +37,11 @@ I am a Network & Security Engineer  <img src="https://media.giphy.com/media/WUlp
 
 
 <div>
-  <img src="![image](https://github.com/abhirajverm/Network_Fun-/assets/112247735/215d5a18-9d7f-4021-b4c3-da443cb883a9)" title="PALO_ALTO" alt="PALO_ALTO" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="icons/fortinet.png" title="FORTINET" alt="FORTINET" width="80" height="80"/>&nbsp;
+  <img src="icons/palo.jpg" title="PALO" alt="PALO" width="120" height="80"/>&nbsp;
+  <img src="icons/router_cisco.jpg" title="ROUTER" alt="ROUTER" width="120" height="80"/>&nbsp;
+  <img src="icons/shophos.png" title="SOPHOS" alt="SOPHOS" width="120" height="80"/>&nbsp;
+   <img src="icons/cisco sw.jpg" title="SW" alt="SW" width="120" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
 
 </div>
