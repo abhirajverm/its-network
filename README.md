@@ -36,7 +36,7 @@
 
 ### :hammer_and_wrench: Firewalls , AWS  & Other Network  Tools :
 
-<div>
+<div> 
   <img src="icons/fortinet.png" title="FORTINET" alt="FORTINET" width="80" height="80"/>&nbsp;
   <img src="icons/palo.jpg" title="PALO" alt="PALO" width="120" height="80"/>&nbsp;
   <img src="icons/router_cisco.jpg" title="ROUTER" alt="ROUTER" width="120" height="80"/>&nbsp;
