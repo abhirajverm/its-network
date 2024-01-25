@@ -1,4 +1,4 @@
-
+onfigure VXLAN over IPsec in Hub and Spoke topology, where there is single subnet in different locations and to keep communication between Spoke and HUB and between Spokes.
 
 
 
