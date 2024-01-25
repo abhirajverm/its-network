@@ -1,4 +1,5 @@
-onfigure VXLAN over IPsec in Hub and Spoke topology, where there is single subnet in different locations and to keep communication between Spoke and HUB and between Spokes.
+
+![vxlan](https://github.com/abhirajverm/its-network/assets/112247735/177ed452-ad8d-45d7-9c52-9529378f7ef8)
 
 
 
@@ -160,6 +161,7 @@ end
     next
 end
 Verification.
+
 
 Client1 behind spoke1 has IP address 10.43.0.8.
 Client2 behind spoke2 has IP address 10.43.0.18.
